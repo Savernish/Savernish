@@ -5,7 +5,7 @@ building at the seam between control theory and machine learning. things from sc
 - **now** — matlab-like environment written purely in rust, viewpoint-invariant object detection (dinov2 + lora) at a2s lab
 - **focus** — deep learning for system id, robust control, embedded ml
 - **blog** — [savern.me](https://savern.me)
-- **reach** — [mail](cabuk23@itu.edu.tr) · [linkedin](https://linkedin.com/in/Enbiya-Çabuk)
+- **reach** — cabuk23@itu.edu.tr · [linkedin](https://linkedin.com/in/Enbiya-Çabuk)
 
 **most used across my repos:**
 
