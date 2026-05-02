@@ -11,8 +11,8 @@ building at the seam between control theory and machine learning. terse code, th
 
 <!-- LANGS:START -->
 ```text
-Python              ███████████████████░░░░░░   75.40 %
-Jupyter Notebook    ███░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Python              █████████████░░░░░░░░░░░░   55.40 %
+Rust                █████████░░░░░░░░░░░░░░░░   31.20 %
 C++                 ██░░░░░░░░░░░░░░░░░░░░░░░    6.80 %
 JavaScript          █░░░░░░░░░░░░░░░░░░░░░░░░    3.90 %
 HTML                ▓░░░░░░░░░░░░░░░░░░░░░░░░    1.70 %
