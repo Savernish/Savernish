@@ -1,16 +1,21 @@
-## Hi there 👋
+hey — i'm enbiya. control & automation engineering @ itu, graduating summer 2027.
 
-<!--
-**Savernish/Savernish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building at the seam between control theory and machine learning. terse code, things from scratch when it teaches me something.
 
-Here are some ideas to get you started:
+- **now** — viewpoint-invariant object detection (dinov2 + lora) at a2s lab
+- **focus** — deep learning for system id, robust control, embedded ml
+- **blog** — [savern.me](https://savern.me)
+- **reach** — [mail](cabuk23@itu.edu.tr) · [linkedin](https://linkedin.com/in/Enbiya-Çabuk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**most used across my repos:**
+
+<!-- LANGS:START -->
+```text
+Python              ███████████████████░░░░░░   75.40 %
+Jupyter Notebook    ███░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+C++                 ██░░░░░░░░░░░░░░░░░░░░░░░    6.80 %
+JavaScript          █░░░░░░░░░░░░░░░░░░░░░░░░    3.90 %
+HTML                ▓░░░░░░░░░░░░░░░░░░░░░░░░    1.70 %
+CSS                 ░░░░░░░░░░░░░░░░░░░░░░░░░    1.00 %
+```
+<!-- LANGS:END -->
